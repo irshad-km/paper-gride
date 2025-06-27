@@ -1,0 +1,302 @@
+body{
+    margin: 0;
+}
+.hedder {
+    width: 100%;
+    height: 48px;
+    background-color: #121212;
+    border-bottom: 25.1px solid #99999910;
+    margin-top: -19px;
+}
+.hedder:hover{
+    background-color: rgb(30, 29, 29);
+}
+.hedd-text {
+    font-family: monospace;
+    color: white;
+    padding-top: 17px;
+    margin-left: 42%;
+    font-size: 14px;
+    cursor: pointer;
+} 
+span {
+  content: "\2192";
+}
+
+.hedder-2 {
+    width: 100%;
+    height: 97px;
+    background-color: #121212;
+    margin-top: -23px;
+    z-index: 1000;
+    position: sticky;
+    top: 0;
+}
+.h2-text {
+    margin-top: -34px;
+    color: white;
+    padding-left: 150px;
+    font-family: 'korolev', sans-serif;
+    font-size: 26px;
+    cursor: pointer;
+}
+.list {
+    padding-top: 39px;
+    padding-left: 281px;
+    font-family: 'korolev', sans-serif;
+} 
+
+.list-1{
+    color: #fff;
+    margin-left: 33px;
+}
+.list-1:hover{
+    text-decoration-thickness: 2px;
+}
+.list-2{
+    color: #c4c4c4;
+    margin-left: 33px;
+    text-decoration: none;
+}
+.list-2:hover{
+    text-decoration: underline;
+    color: white;
+}
+.list-3{
+    color: #c4c4c4;
+    margin-left: 33px;
+    text-decoration: none;
+}
+.list-3:hover{
+    text-decoration: underline;
+    color: white;
+}
+.list-4{
+    color: #c4c4c4;
+    margin-left: 33px;
+    text-decoration: none;
+}
+.list-4:hover{
+    text-decoration: underline;
+    color: white;
+}
+.hedder-3{
+    width: 100%;
+    height: 2200px;
+    background-color: #fff;
+    margin-top: -10px;
+}
+.line-1{
+    margin-top: 11px;
+}
+.img-1{
+    width: 24%;
+    margin-top: 34px;
+    margin-left: 168px;
+    cursor: pointer;
+}
+.img-2{
+    width: 24%;
+    margin-top: 24px;
+    margin-left: 40px;
+    cursor: pointer;
+}
+.img-3{
+     width: 24%;
+    margin-top: 24px;
+    margin-left: 40px;
+    cursor: pointer;
+}
+.line-2{
+    margin-top: -15px;
+}
+.img-4{
+     width: 24%;
+    margin-top: 24px;
+    margin-left: 168px;
+    cursor: pointer;
+}
+.img-5{
+     width: 24%;
+    margin-top: 24px;
+    margin-left: 40px;
+    cursor: pointer;
+}
+.img-6{
+     width: 24%;
+    margin-top: 24px;
+    margin-left: 40px;
+    cursor: pointer;
+}
+.line-3{
+    margin-top: -15px;
+}
+.img-7{
+    width: 24%;
+    margin-top: 24px;
+    margin-left: 168px;
+    cursor: pointer;
+}
+
+.img-8{
+width: 24%;
+margin-top: 24px;
+margin-left: 40px;
+cursor: pointer;
+}
+.img-9{
+width: 24%;
+margin-top: 24px;
+margin-left: 40px;
+cursor: pointer;
+}
+.about-us{
+    padding: 0;
+}
+.img-10 {
+    display: flex;
+    position: absolute;
+    height: 71%;
+    width: 26%;
+    margin-top: 54px;
+    margin-left: 153px;
+}
+.rohil-Sethi{
+    margin-left: 39%;
+    padding-top: 6%;
+}
+.not-text{
+    font-family: monospace;
+    font-size: 29px;
+    margin-left: 35px;
+    font-weight: 400;
+}
+.rohil-text{
+    font-size: 20px;
+    margin-left: 35px;
+    color: #717171;
+    margin-top: 30px;
+    font-family: math;
+}
+.button {
+    color: white;
+    background-color: black;
+    margin-left: 34px;
+    padding: 14px 31px;
+    margin-top: 20px;
+    font-size: 19px;
+    font-family: sans-serif;
+    cursor: pointer;
+}
+.button:hover{
+    margin-left:33px ;
+    margin-top: 18px;
+    padding: 16px 33px;
+    border: none;
+}
+.hedder-4 {
+    width: 100%;
+    height: 337px;
+    background-color: #121212;
+    margin-top: 373px;
+    border-bottom: 1.1px solid #2f2f2f;
+}
+.contact{
+    text-align: center;
+    color: white;
+    cursor: pointer;
+    font-family: sans-serif;
+}
+.num-1 {
+    text-align: center;
+    color: #989898;
+    text-decoration: underline;
+    cursor: pointer;
+    font-family: sans-serif;
+    font-size: 18px;
+}
+.num-1:hover{
+    color: white;
+}
+.num-2{
+    text-align: center;
+    color:#989898 ;
+    text-decoration: underline;
+    cursor: pointer;
+    font-family: sans-serif;
+    font-size: 18px;
+}
+.num-2:hover{
+    color: white;
+}
+.paper-ling {
+    text-align: center;
+    color: #989898;
+    text-decoration: underline;
+    cursor: pointer;
+    font-family: math;
+    font-size: 20px;
+}
+.paper-ling:hover{
+    color: white;
+}
+.contact-list{
+    padding-top: 8px;
+    font-size: 20px;
+
+}
+.fa-solid, .fas {
+    font-weight: lighter;
+    margin-left: -9%;
+    color: white;
+    font-weight: 800;
+    margin-left: 2%;
+}
+.icon {
+    margin-left: 82%;
+    margin-top: -19px;
+    font-size: 25px;
+}
+.fa-instagram {
+    --fa: "\f16d";
+    color: white;
+    margin-left: 743px;
+    margin-top: 2%;
+    font-size: 23px;
+    cursor: pointer;
+}
+.fa-instagram:hover{
+    font-size: 25px;
+}
+.hedder-5{
+    width: 100%;
+    height: 149px;
+    background-color: #121212;
+}
+.list-a {
+    color: #a6a6a6;
+    letter-spacing: 1px;
+    text-decoration: none;
+    font-weight: bold;
+    margin-left: 22px;
+    font-size: .7rem;
+    text-align: center;
+}
+.list-main {
+    text-align: center;
+    padding-top: 89px;
+    margin-left: -265px;
+    font-family: system-ui;
+}
+.list-a:hover{
+    text-decoration: underline;
+    color: white;
+}
+.last-text {
+    color: #a6a6a6;
+    letter-spacing: 1px;
+    margin-top: -16px;
+    margin-left: 121px;
+    font-size: 13.5px;
+    font-family: monospace;
+}
